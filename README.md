@@ -1,6 +1,6 @@
-#Pranay Kumar — Cybersecurity Portfolio
+# Pranay Kumar — Cybersecurity Portfolio
 
-Cybersecurity Analyst | SOC | SIEM | Incident Response | Threat Detection
+> Cybersecurity Analyst | SOC | SIEM | Incident Response | Threat Detection
 
 <p align="center">
   <a href="https://portfolio-final-alpha-khaki.vercel.app/">
@@ -14,7 +14,9 @@ Cybersecurity Analyst | SOC | SIEM | Incident Response | Threat Detection
   </a>
 </p>
 
-🛡️ About
+---
+
+## 🛡️ About
 
 I'm **Pranay Kumar**, a cybersecurity graduate focused on **Security Operations Center (SOC)**, security monitoring, incident response, threat detection, and defensive security.
 
